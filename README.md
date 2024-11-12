@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hola 👋 soy Carlos
 
+## Sobre mi
+Soy técnico informático
+
+<h3 align="left">Contacta conmigo:</h3>
+
+[![Linkedin: Manuel Ortiz](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-medg/)](https://www.linkedin.com/in/carlos-medg/)
+[![GitHub: Bazinga](https://img.shields.io/github/followers/XxbazingaxX?label=Bazinga&style=social)](https://github.com/XxBazingaxX)
 <!--
 **XxbazingaxX/XxbazingaxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
