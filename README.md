@@ -11,7 +11,7 @@ Soy técnico informático
 <p align="center">
      <a href="https://github.com/XxbazingaxX">
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XxbazingaxX&show_icons=true&theme=chartreuse-dark&bg_color=30,5C258D,4389A2&disable_animations=false"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxbazingaxX&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=Mis mejores lenguajes"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxbazingaxX&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=Mis mejores lenguajess"/>
      </a>
 </p>
 <!--
