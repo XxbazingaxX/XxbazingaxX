@@ -10,7 +10,8 @@ Soy técnico informático
 
 <p align="center">
      <a href="https://github.com/XxbazingaxX"></a>
-     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XxbazingaxX&layout=compact&theme=vision-friendly-dark" />
+     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=XxbazingaxX&show_icons=true&theme=vision-friendly-dark" height="192px" />
+     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XxbazingaxX&layout=compact&theme=vision-friendly-dark" height="192px" />
 </p>
 
 <h3> Languages and tools </h3>
