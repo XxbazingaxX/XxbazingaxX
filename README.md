@@ -1,58 +1,49 @@
-## Hola 👋 soy Carlos
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=XxbazingaxX&color=7ed321&style=for-the-badge&label=PROFILE+VIEWS" alt="XxbazingaxX" />
+</div>
 
-## Sobre mi
-Soy técnico informático
+# ¡Hola! Soy Carlos 👋
+### 🚀 Desarrollador apasionado y Técnico Informático
 
-<h2 align="left">Contacta conmigo:</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</div>
 
-[![Linkedin: Carlos](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-medg/)](https://www.linkedin.com/in/carlos-medg/)
-[![GitHub: Bazinga](https://img.shields.io/github/followers/XxbazingaxX?label=Bazinga&style=social)](https://github.com/XxBazingaxX)
+---
 
+### 💻 Tecnologías y Herramientas
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
 <p align="center">
-     <a href="https://github.com/XxbazingaxX"></a>
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=XxbazingaxX&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XxbazingaxX&layout=compact&theme=vision-friendly-dark&hide_border=true" height="180px" />
 </p>
 
-<h3> Languages and tools </h3>
-<div align="center" valign="top"><br>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a>
+---
 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
+### 🏆 Logros y Actividad
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XxbazingaxX&theme=dracula&no-bg=true&column=4" />
+</p>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XxbazingaxX&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" />
+</p>
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Github" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png">
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/> 
-  </a>
+---
 
-</div><br>
-<!--
-**XxbazingaxX/XxbazingaxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo."</i>
+</div>
