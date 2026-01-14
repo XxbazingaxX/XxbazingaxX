@@ -5,7 +5,7 @@ Soy técnico informático
 
 <h2 align="left">Contacta conmigo:</h2>
 
-[![Linkedin: Manuel Ortiz](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-medg/)](https://www.linkedin.com/in/carlos-medg/)
+[![Linkedin: Carlos](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-medg/)](https://www.linkedin.com/in/carlos-medg/)
 [![GitHub: Bazinga](https://img.shields.io/github/followers/XxbazingaxX?label=Bazinga&style=social)](https://github.com/XxBazingaxX)
 
 <p align="center">
